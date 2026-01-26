@@ -1,2 +1,2 @@
-# IFTorina 2025 metų užduotys
+# 2025 metų IFTorinos medžiaga
 IFTorina25 programavimo išeities kodai
